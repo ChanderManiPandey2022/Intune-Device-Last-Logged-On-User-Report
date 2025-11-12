@@ -1,0 +1,6 @@
+
+
+Script Link
+
+
+https://github.com/ChanderManiPandey2022/Intune-Device-Last-Logged-On-User-Report/releases/download/v1.0/Get-IntuneLastLoggedOnUsers.ps1
